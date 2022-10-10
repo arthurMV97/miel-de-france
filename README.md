@@ -1,8 +1,8 @@
 # Miel de France
 
-Cours: ReadMe
-Date de création: 10 octobre 2022 14:52
-Relue ?: No
+"Miel de France" is a marketplace plateform where beekeepers (FR: apiculteurs) can register to sell honey and other products online.
+Clients can find their favorites beekeepers and honey on the plateform.  
+
 
 ## Run the project:
 
